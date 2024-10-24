@@ -33,7 +33,7 @@ This is a simple expense tracker application built using the MERN (MongoDB, Expr
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/varad3112/expense-tracker.git
 
 Copy code
 
